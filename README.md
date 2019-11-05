@@ -1,5 +1,5 @@
 # PHP-logger
-A simple PHP script that logs the IP and other user info in a .log file
+A simple PHP script that logs the IP and other user info of a visitor in a .log file
 
 This script should be placed inside the page you want to log (be sure the page has the .php extension. Ex: index.php)
 
